@@ -1,0 +1,22 @@
+---
+title: "Archivio"
+listing:
+  id: archive-listing
+  contents: "archivio_mostre_vecchie/*.qmd"
+  type: grid
+  fields: [image, description]
+  image-placeholder: "images/archive-placeholder.svg"
+  grid-columns: 4
+  grid-item-border: false
+  sort: false
+  sort-ui: false
+  filter-ui: false
+  page-size: 12
+---
+
+:::: {.archive-layout}
+
+::: {#archive-listing .archive-listing-slot}
+:::
+
+::::

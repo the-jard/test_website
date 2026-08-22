@@ -1,0 +1,8 @@
+{
+  "listingMap": {
+    "archive.qmd": [
+      "archive/*.qmd",
+      "archivio_mostre_vecchie/*.qmd"
+    ]
+  }
+}

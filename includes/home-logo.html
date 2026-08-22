@@ -1,0 +1,16 @@
+<a class="site-home-logo" aria-label="Home">
+  <img alt="Home">
+</a>
+<script>
+  (() => {
+    const link = document.querySelector('.site-home-logo');
+    const image = link.querySelector('img');
+    const stylesheet = [...document.querySelectorAll('link[rel="stylesheet"]')]
+      .find((item) => item.href.endsWith('/styles.css'));
+
+    if (stylesheet) {
+      link.href = new URL('index.html', stylesheet.href).href;
+      image.src = new URL('images/logo.png', stylesheet.href).href;
+    }
+  })();
+</script>

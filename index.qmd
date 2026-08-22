@@ -1,0 +1,13 @@
+---
+title: "The Jard"
+---
+
+:::: {.home-navigation}
+::: {.home-navigation-links}
+[Ora in Galleria](2026_10_beniamio_principale.qmd)
+
+[Archivio](archive.qmd)
+
+[Contatti](contacts.qmd)
+:::
+::::

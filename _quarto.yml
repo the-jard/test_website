@@ -1,0 +1,16 @@
+project:
+  type: website
+  resources:
+    - images/**
+    - fonts/**
+
+website:
+  search: false
+
+format:
+  html:
+    page-layout: full
+    toc: false
+    lightbox: true
+    css: styles.css
+    include-before-body: includes/home-logo.html
