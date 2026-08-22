@@ -2,3 +2,17 @@
 title: "Contatti"
 ---
 
+:::: {.contact-layout}
+::: {.contact-details}
+<p class="contact-name">THE JARD</p>
+
+<p class="contact-address">Strada della Giardina 12<br>10023 Chieri (TO), Italy</p>
+
+<p class="contact-links">
+Mail: <a href="mailto:info@thejard.eu">info@thejard.eu</a><br>
+Tel: <a href="tel:+393514096297">+39 351 409 6297</a><br>
+Web: <a href="https://www.thejard.eu">www.thejard.eu</a><br>
+IG: <a href="https://www.instagram.com/thejardgallery">@thejardgallery</a>
+</p>
+:::
+::::
