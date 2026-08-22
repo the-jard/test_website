@@ -521,6 +521,7 @@ body.slide-up-page {
 
 .home-navigation-links {
   grid-column: 1;
+  font-size: 1.35rem;
   text-align: right;
 }
 
@@ -543,12 +544,17 @@ body.slide-up-page {
 .home-navigation-image {
   grid-column: 2 / 5;
   align-self: start;
+  display: block;
+  width: calc(100% - 0.75rem);
   margin-left: 0.75rem;
 }
 
 .home-navigation-image p,
 .home-navigation-image .quarto-figure,
 .home-navigation-image figure {
+  display: block;
+  width: 100%;
+  max-width: none;
   margin: 0 !important;
   padding: 0;
 }
@@ -556,6 +562,7 @@ body.slide-up-page {
 .home-navigation-image img {
   display: block;
   width: 100%;
+  max-width: none;
   height: auto;
 }
 
@@ -601,6 +608,7 @@ body.slide-up-page {
 
   .home-navigation-image {
     grid-column: 1;
+    width: 100%;
     margin-left: 0;
     margin-top: 0.75rem;
   }
