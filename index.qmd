@@ -12,6 +12,6 @@ title: "The Jard"
 :::
 
 ::: {.home-navigation-image}
-![](images/cancello_foto.jpg)
+![](images/cancello_foto.jpg){.nolightbox}
 :::
 ::::
