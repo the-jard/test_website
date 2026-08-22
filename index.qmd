@@ -11,7 +11,4 @@ title: "The Jard"
 [Contatti](contacts.qmd)
 :::
 
-::: {.home-navigation-image}
-![](images/cancello_foto.jpg){.nolightbox}
-:::
 ::::
