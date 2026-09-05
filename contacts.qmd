@@ -1,18 +1,30 @@
 ---
 title: "Contatti"
+body-classes: contact-page
 ---
 
-:::: {.contact-layout}
-::: {.contact-details}
-<p class="contact-name">THE JARD</p>
+:::: {.contact-showcase}
+::: {.contact-showcase-details}
+<a class="contact-showcase-logo" href="index.html" aria-label="Torna alla home">
+  <img src="images/logo.png" alt="The Jard" width="1054" height="1492">
+</a>
 
-<p class="contact-address">Strada della Giardina 12<br>10023 Chieri (TO), Italy</p>
+::: {.contact-showcase-copy}
+<h2 class="contact-spread-line contact-showcase-name" style="--characters: 8" aria-label="THE JARD"><span aria-hidden="true">T</span><span aria-hidden="true">H</span><span aria-hidden="true">E</span><span aria-hidden="true"></span><span aria-hidden="true">J</span><span aria-hidden="true">A</span><span aria-hidden="true">R</span><span aria-hidden="true">D</span></h2>
 
-<p class="contact-links">
-Mail: <a href="mailto:info@thejard.eu">info@thejard.eu</a><br>
-Tel: <a href="tel:+393514096297">+39 351 409 6297</a><br>
-Web: <a href="https://www.thejard.eu">www.thejard.eu</a><br>
-IG: <a href="https://www.instagram.com/thejardgallery">@thejardgallery</a>
-</p>
+<div class="contact-spread-line contact-showcase-line" style="--characters: 24" aria-label="STRADA DELLA GIARDINA 12"><span aria-hidden="true">S</span><span aria-hidden="true">T</span><span aria-hidden="true">R</span><span aria-hidden="true">A</span><span aria-hidden="true">D</span><span aria-hidden="true">A</span><span aria-hidden="true"></span><span aria-hidden="true">D</span><span aria-hidden="true">E</span><span aria-hidden="true">L</span><span aria-hidden="true">L</span><span aria-hidden="true">A</span><span aria-hidden="true"></span><span aria-hidden="true">G</span><span aria-hidden="true">I</span><span aria-hidden="true">A</span><span aria-hidden="true">R</span><span aria-hidden="true">D</span><span aria-hidden="true">I</span><span aria-hidden="true">N</span><span aria-hidden="true">A</span><span aria-hidden="true"></span><span aria-hidden="true">1</span><span aria-hidden="true">2</span></div>
+
+<div class="contact-spread-line contact-showcase-line contact-address-last" style="--characters: 25" aria-label="10023, CHIERI (TO), ITALY"><span aria-hidden="true">1</span><span aria-hidden="true">0</span><span aria-hidden="true">0</span><span aria-hidden="true">2</span><span aria-hidden="true">3</span><span aria-hidden="true">,</span><span aria-hidden="true"></span><span aria-hidden="true">C</span><span aria-hidden="true">H</span><span aria-hidden="true">I</span><span aria-hidden="true">E</span><span aria-hidden="true">R</span><span aria-hidden="true">I</span><span aria-hidden="true"></span><span aria-hidden="true">(</span><span aria-hidden="true">T</span><span aria-hidden="true">O</span><span aria-hidden="true">)</span><span aria-hidden="true">,</span><span aria-hidden="true"></span><span aria-hidden="true">I</span><span aria-hidden="true">T</span><span aria-hidden="true">A</span><span aria-hidden="true">L</span><span aria-hidden="true">Y</span></div>
+
+<a class="contact-spread-line contact-showcase-line" style="--characters: 21" href="mailto:info@thejard.eu" aria-label="Mail: info@thejard.eu"><span class="contact-label-character" aria-hidden="true">M</span><span class="contact-label-character" aria-hidden="true">A</span><span class="contact-label-character" aria-hidden="true">I</span><span class="contact-label-character" aria-hidden="true">L</span><span class="contact-label-character" aria-hidden="true">:</span><span aria-hidden="true"></span><span aria-hidden="true">I</span><span aria-hidden="true">N</span><span aria-hidden="true">F</span><span aria-hidden="true">O</span><span aria-hidden="true">@</span><span aria-hidden="true">T</span><span aria-hidden="true">H</span><span aria-hidden="true">E</span><span aria-hidden="true">J</span><span aria-hidden="true">A</span><span aria-hidden="true">R</span><span aria-hidden="true">D</span><span aria-hidden="true">.</span><span aria-hidden="true">E</span><span aria-hidden="true">U</span></a>
+
+<a class="contact-spread-line contact-showcase-line" style="--characters: 19" href="https://www.instagram.com/thejardgallery/" aria-label="Instagram: @thejardgallery"><span class="contact-label-character" aria-hidden="true">I</span><span class="contact-label-character" aria-hidden="true">G</span><span class="contact-label-character" aria-hidden="true">:</span><span aria-hidden="true"></span><span aria-hidden="true">@</span><span aria-hidden="true">T</span><span aria-hidden="true">H</span><span aria-hidden="true">E</span><span aria-hidden="true">J</span><span aria-hidden="true">A</span><span aria-hidden="true">R</span><span aria-hidden="true">D</span><span aria-hidden="true">G</span><span aria-hidden="true">A</span><span aria-hidden="true">L</span><span aria-hidden="true">L</span><span aria-hidden="true">E</span><span aria-hidden="true">R</span><span aria-hidden="true">Y</span></a>
+
+<a class="contact-spread-line contact-showcase-line" style="--characters: 21" href="tel:+393514096297" aria-label="Telefono: +39 351 409 6297"><span class="contact-label-character" aria-hidden="true">T</span><span class="contact-label-character" aria-hidden="true">E</span><span class="contact-label-character" aria-hidden="true">L</span><span class="contact-label-character" aria-hidden="true">:</span><span aria-hidden="true"></span><span aria-hidden="true">+</span><span aria-hidden="true">3</span><span aria-hidden="true">9</span><span aria-hidden="true"></span><span aria-hidden="true">3</span><span aria-hidden="true">5</span><span aria-hidden="true">1</span><span aria-hidden="true"></span><span aria-hidden="true">4</span><span aria-hidden="true">0</span><span aria-hidden="true">9</span><span aria-hidden="true"></span><span aria-hidden="true">6</span><span aria-hidden="true">2</span><span aria-hidden="true">9</span><span aria-hidden="true">7</span></a>
+
+<a class="contact-visit-booking" href="mailto:info@thejard.eu?subject=Prenotazione%20visita" aria-label="Prenotazione visite / Book a Visit"><span aria-hidden="true">PRENOTAZIONE</span><span aria-hidden="true">VISITE</span><span aria-hidden="true">/</span><span aria-hidden="true">BOOK</span><span aria-hidden="true">A</span><span aria-hidden="true">VISIT</span></a>
 :::
+:::
+
+<h1 class="contact-spread-line contact-showcase-title" style="--characters: 8" aria-label="Contatti"><span aria-hidden="true">C</span><span aria-hidden="true">O</span><span aria-hidden="true">N</span><span aria-hidden="true">T</span><span aria-hidden="true">A</span><span aria-hidden="true">T</span><span aria-hidden="true">T</span><span aria-hidden="true">I</span></h1>
 ::::
